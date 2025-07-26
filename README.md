@@ -34,7 +34,7 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anushka-patil-163286276/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/nushhh._16)
+[![Instagram]([https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/nushhh._16](https://www.instagram.com/nuxshh__16/))
 
 ---
 
